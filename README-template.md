@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Preview URL]()
+- [Preview URL](https://jesse-snow.github.io/Single-price-grid-component/)
 
 ## My process
 
